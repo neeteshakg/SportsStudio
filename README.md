@@ -1,3 +1,3 @@
 # SportsStudio
-This is just for Test
-This is maden by Neetesh Agarwal
+This is just for Test\n
+This is made by Neetesh Agarwal
